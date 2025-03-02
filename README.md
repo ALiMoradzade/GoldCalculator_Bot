@@ -1,6 +1,6 @@
 # About GoldCalculator Bot
-Living in Iran, where inflation makes prices go wild, I created a robot that tracks dollar and gold prices
-Now, I can relax and enjoy my snacks while my robot returns all prices in one message with the push of a button
+Living in Iran, where inflation makes prices go wild, I created a robot that tracks dollar and gold prices.
+Now, I can relax and enjoy my snacks while my robot returns all prices in one message with the push of a button.
 
 Thank you, [PythonAnywhere](https://www.pythonanywhere.com/), for providing free hosting for everyone
 

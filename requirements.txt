@@ -1,7 +1,7 @@
-python-telegram-bot
-python-dotenv
-requests
-html5lib
-bs4
-pytz
-persiantools
+python-telegram-bot==21.11.1
+python-dotenv==1.0.1
+requests==2.32.3
+html5lib==1.1
+bs4==0.0.2
+pytz==2025.1
+persiantools==5.2.0

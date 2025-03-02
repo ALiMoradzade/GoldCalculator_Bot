@@ -1,0 +1,6 @@
+python-telegram-bot
+pytz
+requests
+html5lib
+bs4
+python-dotenv

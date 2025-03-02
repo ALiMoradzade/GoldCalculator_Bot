@@ -176,7 +176,7 @@ if __name__ == '__main__':
     write_log_text(f'\n{get_date_and_time()} - Starting bot...', '')
     print('Starting...')
 
-    app = Application.builder().TELEGRAM_BOT_TOKEN(TELEGRAM_BOT_TOKEN).build()
+    app = Application.builder().token(TELEGRAM_BOT_TOKEN).build()
 
     # Commands
     app.add_handler(CommandHandler('start', start_command))

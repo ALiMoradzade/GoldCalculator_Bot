@@ -15,7 +15,7 @@ TELEGRAM_BOT_USERNAME: Final = os.getenv("TELEGRAM_BOT_USERNAME")
 ADMIN_USERNAME: Final = os.getenv("ADMIN_USERNAME")
 LOG_PATH: Final = "log.json"
 json_logger.file_path = LOG_PATH
-POLL_INTERVAL_SECONDS: Final = 5
+POLL_INTERVAL_SECONDS: Final = 60
 
 responses = [
     "نزن این حرف رو!🫢\nدارم یادداشت میکنم!😕",
@@ -176,4 +176,4 @@ if __name__ == '__main__':
     json_logger.write_text("Robot", dic)
     print('Polling...')
     app.run_polling(poll_interval=POLL_INTERVAL_SECONDS)
-    
+

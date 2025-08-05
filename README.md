@@ -1,4 +1,4 @@
-# About gold_calculator_bot
+# About gold_calculator_bot v1.1.1
 Living in Iran, where inflation makes prices go wild, I created a robot that tracks dollar and gold prices.
 Now, I can relax and enjoy my snacks while my robot returns all prices in one message with the push of a button.
 
